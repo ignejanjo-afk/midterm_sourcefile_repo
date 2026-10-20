@@ -1,0 +1,1 @@
+Sir natutunan ko po ung pag gawa ng account sa github, tas kung pano po mag initialize ng git sa folder po, tapus kung pano po gumamit ng git add, git commit tas mag git push po. Thank Youu!
